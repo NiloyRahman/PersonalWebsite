@@ -1,0 +1,127 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'lato', sans-serif;
+}
+
+h1{
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-family: 'Exo 2', sans-serif;
+  font-size: 3.125rem;
+}
+
+h2{
+  font-family:'Montserrat', sans-serif;
+  padding-bottom: 10px;
+}
+
+h5{
+  font-family:'Exo';
+  font-size: 0.9375rem;
+  font-weight: normal;
+  margin-top: 0;
+}
+
+h3{
+  color: #00adb5;
+}
+
+p{
+  line-height: 1.8;
+  font-family: 'Montserrat';
+}
+
+hr{
+  border-style: dotted none none;
+  border-width: 6px;
+  width: 5%;
+  margin: 50px auto;
+  border-color: #00fff5;
+  background-color: white;
+  opacity: 1;
+}
+
+.top-container{
+  color: #f8f5f1;
+  height: 600px;
+  padding: 0 0 0;
+}
+
+.middle-container{
+margin: 50px auto;
+}
+
+.bottom-container{
+margin: auto;
+padding: 50px;
+}
+
+
+.business{
+  width: 50%;
+  margin: 75px auto 75px;
+  text-align: left;
+}
+
+.airpod{
+  width: 25%;
+  float: left;
+  margin-right: 30px
+}
+
+.bicycle{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.tutor{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.intro{
+  width: 50%;
+  margin: 15px auto ;
+}
+
+.contact-message{
+  width: 42%;
+  margin: 30px auto 50px;
+  padding-bottom: 15px;
+}
+
+.description{
+  font-family: 'Exo 2';
+}
+
+.btn{
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/*.btn:hover{
+  color:#393e46;
+}*/
+
+.copyright{
+  padding: 20px 0 0;
+  color: 	#696969
+}
+
+/*Bootstrap CSS */
+
+.nav-link{
+  font-family: 'Exo 2';
+  margin: 0 0 0 5px;
+}
+
+.navbar{
+  height: 50px;
+}
+
+.social-links{
+  margin: 0 5px;
+}
